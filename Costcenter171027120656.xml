@@ -1,0 +1,167 @@
+<?xml version="1.0"?><DocumentElement>
+<Item><Company>01</Company><Text_1>1050</Text_1><Text_2>NZCL B/S</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1050</Text_1><Text_2>NZCL B/S</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1061</Text_1><Text_2>COES</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1071</Text_1><Text_2>Interconnect &amp; Roaming</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1081</Text_1><Text_2>Other</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1103</Text_1><Text_2>RF Planning</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1104</Text_1><Text_2>RF Akl Reg Team</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1105</Text_1><Text_2>RF Wlg Reg Team</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1105</Text_1><Text_2>RF Wlg Reg Team</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1106</Text_1><Text_2>RF Chch Reg Team</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1107</Text_1><Text_2>RF Performance</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1126</Text_1><Text_2>Transmission Design</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1127</Text_1><Text_2>Transmission Reg Team</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1152</Text_1><Text_2>Site Acquisition Management Team</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1153</Text_1><Text_2>Site Acquisition Costs</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1154</Text_1><Text_2>Town Planning Costs</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1205</Text_1><Text_2>Auckland Switch</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1225</Text_1><Text_2>Core Design</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1226</Text_1><Text_2>Network Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1227</Text_1><Text_2>Field Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1228</Text_1><Text_2>Network Ops Centre</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1229</Text_1><Text_2>Infrastructure Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1230</Text_1><Text_2>Security</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1299</Text_1><Text_2>Core Eliminations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1301</Text_1><Text_2>Design</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1325</Text_1><Text_2>Build</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1351</Text_1><Text_2>Cellsite-Common</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1399</Text_1><Text_2>Cellsite Eliminations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1401</Text_1><Text_2>Corp Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1451</Text_1><Text_2>Financial Planning &amp; Analysis</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1452</Text_1><Text_2>Financial Reporting</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1453</Text_1><Text_2>Revenue Assurance</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1454</Text_1><Text_2>Board Costs</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1461</Text_1><Text_2>Human Resources Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1461</Text_1><Text_2>Human Resources Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1462</Text_1><Text_2>Organisational L&amp;D</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1471</Text_1><Text_2>IT Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1472</Text_1><Text_2>Infrastructure</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1473</Text_1><Text_2>Enterprise Architecture</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1474</Text_1><Text_2>Enterprise Data WH</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1475</Text_1><Text_2>IT Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1476</Text_1><Text_2>Testing</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1477</Text_1><Text_2>Software Dev</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1481</Text_1><Text_2>Logistics Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1482</Text_1><Text_2>Handling &amp; Distribution</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1499</Text_1><Text_2>Corp Eliminations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1501</Text_1><Text_2>ePMO Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1551</Text_1><Text_2>Customer Care Auckland</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1552</Text_1><Text_2>Customer Care Christchurch</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1553</Text_1><Text_2>Customer Care Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1556</Text_1><Text_2>Customer Care Ops HR/L&amp;D</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1557</Text_1><Text_2>Credit &amp; Collections</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1558</Text_1><Text_2>Consumer Service Delivery</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1559</Text_1><Text_2>Business Service Delivery</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1560</Text_1><Text_2>Service Improvement</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1561</Text_1><Text_2>Planning Operations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1561</Text_1><Text_2>Planning Operations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1599</Text_1><Text_2>Customer Care Eliminations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1701</Text_1><Text_2>Corporate Affairs</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1702</Text_1><Text_2>Legal &amp; Regulatory</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1702</Text_1><Text_2>Legal &amp; Regulatory</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1703</Text_1><Text_2>Roaming &amp; Wholesale</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1704</Text_1><Text_2>Strategy</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1705</Text_1><Text_2>Corp Projects</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1731</Text_1><Text_2>Marketing Ops</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1732</Text_1><Text_2>Brand, Comms &amp; Acquisition</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1733</Text_1><Text_2>Product &amp; Price</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1734</Text_1><Text_2>Base &amp; Insights</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1735</Text_1><Text_2>Insights</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1735</Text_1><Text_2>Insights</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1736</Text_1><Text_2>Consumer Segment</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1737</Text_1><Text_2>Business Segment</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1738</Text_1><Text_2>Digital</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1799</Text_1><Text_2>Marketing Eliminations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1901</Text_1><Text_2>131 Khyber Pass Road</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1905</Text_1><Text_2>42 Upper Queen Street</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1906</Text_1><Text_2>65 Upper Queen Street</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1908</Text_1><Text_2>George Street Akl</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1909</Text_1><Text_2>Snap House</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1909</Text_1><Text_2>Snap House</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1920</Text_1><Text_2>Wellington Office</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>1920</Text_1><Text_2>Wellington Office</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1930</Text_1><Text_2>123 Blenheim Rd - UNIT B</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1931</Text_1><Text_2>123 Blenheim Rd - UNIT A</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1932</Text_1><Text_2>Nga Mahi Rd 19, Chch</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1935</Text_1><Text_2>1 Princes St Hamilton</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>1936</Text_1><Text_2>Queenstown Office</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2001</Text_1><Text_2>Sales and Distribution</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2101</Text_1><Text_2>Direct Channel</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2101</Text_1><Text_2>Direct Channel</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2102</Text_1><Text_2>Field Representatives</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2103</Text_1><Text_2>Consumer Sales Managers</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2104</Text_1><Text_2>Dealer and Retail</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2104</Text_1><Text_2>Dealer and Retail</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2111</Text_1><Text_2>Akl Sylvia Park Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2111</Text_1><Text_2>Akl Sylvia Park Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2112</Text_1><Text_2>Akl Newmarket Retail Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2113</Text_1><Text_2>Wlg Custom Quay Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2114</Text_1><Text_2>Chch Riccarton Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2115</Text_1><Text_2>Akl Sylvia Park Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2116</Text_1><Text_2>Wlg Queensgate Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2117</Text_1><Text_2>Chch Riccarton Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2118</Text_1><Text_2>Hamilton Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2119</Text_1><Text_2>Hamilton Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2120</Text_1><Text_2>Akl Queen St Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2121</Text_1><Text_2>Tauranga Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2122</Text_1><Text_2>Dunedin Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2123</Text_1><Text_2>Albany Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2124</Text_1><Text_2>Whangarei Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2125</Text_1><Text_2>St. Lukes Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2126</Text_1><Text_2>Palmerston North Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2127</Text_1><Text_2>Napier Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2128</Text_1><Text_2>Nelson Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2128</Text_1><Text_2>Nelson Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2129</Text_1><Text_2>Wairau Park Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2130</Text_1><Text_2>Centreplace Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2131</Text_1><Text_2>Bayfair Taur Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2132</Text_1><Text_2>Matamata</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2133</Text_1><Text_2>The Palms CHCH Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2134</Text_1><Text_2>Richmond Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2135</Text_1><Text_2>Queenstown Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2136</Text_1><Text_2>Timaru Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2138</Text_1><Text_2>Gisborne Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2139</Text_1><Text_2>New Plymouth Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2139</Text_1><Text_2>New Plymouth Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2140</Text_1><Text_2>Paraparaumu Kiosk</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2141</Text_1><Text_2>Paraparaumu Store</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2200</Text_1><Text_2>Events</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2250</Text_1><Text_2>Direct Sales</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2301</Text_1><Text_2>Indirect Channel</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2310</Text_1><Text_2>Multi Brand Retail</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2310</Text_1><Text_2>Multi Brand Retail</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2311</Text_1><Text_2>Grocery, Independents &amp; Oils</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2312</Text_1><Text_2>Affiliate and Promotional Sales</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2401</Text_1><Text_2>Dealer Channel</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2410</Text_1><Text_2>Premium Dealers</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2410</Text_1><Text_2>Premium Dealers</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2430</Text_1><Text_2>Accredited Dealers</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2430</Text_1><Text_2>Accredited Dealers</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2450</Text_1><Text_2>SME</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2450</Text_1><Text_2>SME</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2501</Text_1><Text_2>Int Bus Chan Nth Reg</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>2501</Text_1><Text_2>Int Bus Chan Nth Reg</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2550</Text_1><Text_2>Warehouse Mobile</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>2999</Text_1><Text_2>Sales Eliminations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4061</Text_1><Text_2>Fixed B/Sheet</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4062</Text_1><Text_2>Fixed P&amp;L</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4066</Text_1><Text_2>Fixed Admin/Corporate</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4067</Text_1><Text_2>Fixed Finance</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4068</Text_1><Text_2>Fixed HR</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4069</Text_1><Text_2>Fixed Marketing</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4070</Text_1><Text_2>Fixed Customer Care</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4071</Text_1><Text_2>Fixed Technology</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4072</Text_1><Text_2>Fixed Operations</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4073</Text_1><Text_2>Fixed Managed Services</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4074</Text_1><Text_2>Fixed Design and Build</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4075</Text_1><Text_2>Fixed Development</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4081</Text_1><Text_2>Fixed Provn Business</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4082</Text_1><Text_2>Fixed Provn Residential</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4091</Text_1><Text_2>National Business Sales</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4093</Text_1><Text_2>Fixed Channel Sales</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4095</Text_1><Text_2>Fixed Wholesale</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>4099</Text_1><Text_2>Technology - Juniper</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>01</Company><Text_1>9999</Text_1><Text_2>Unspecified</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+<Item><Company>06</Company><Text_1>9999</Text_1><Text_2>Unspecified</Text_2><Text_3></Text_3><Text_4></Text_4></Item>
+</DocumentElement>
